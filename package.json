@@ -1,0 +1,23 @@
+{
+  "name": "express-mongodb-url-shortener-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "keywords": [],
+  "author": "Thomas G. aka Drozerah <drozerah@gmail.com> (https://github.com/Drozerah)",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.3",
+    "shortid": "^2.2.15",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

@@ -1,0 +1,4 @@
+{
+  "mongoURI": "add your db URI",
+  "baseURL": "add your base application URL ex: mySite.com or http://localhost:5000 if development"
+}
